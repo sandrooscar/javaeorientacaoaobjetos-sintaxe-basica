@@ -16,6 +16,6 @@ public class TestaPontoFlutuante {
 		
 		double valor1 = 0.2;
 		double valor2 = 0.1;
-		System.out.println(valor1 + valor2);
+		System.out.println(valor1 + valor2);//tem um site que explica o motivo desse resultado
 	}
 }
